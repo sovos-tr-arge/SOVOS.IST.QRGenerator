@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOVOS.IST.QRGenerator.API", "src\SOVOS.IST.QRGenerator.API\SOVOS.IST.QRGenerator.API.csproj", "{69F1C395-3B7A-4AAC-8C62-A29F65B98839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F1C395-3B7A-4AAC-8C62-A29F65B98839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F1C395-3B7A-4AAC-8C62-A29F65B98839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F1C395-3B7A-4AAC-8C62-A29F65B98839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F1C395-3B7A-4AAC-8C62-A29F65B98839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3721302-B4C4-441F-8DD8-7308A05488E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3721302-B4C4-441F-8DD8-7308A05488E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3721302-B4C4-441F-8DD8-7308A05488E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3721302-B4C4-441F-8DD8-7308A05488E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784F3B65-73E9-460A-9687-8DB1888895D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F3B65-73E9-460A-9687-8DB1888895D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F3B65-73E9-460A-9687-8DB1888895D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F3B65-73E9-460A-9687-8DB1888895D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14E7C3F-3CBA-42B1-B838-ABFF26875657}
+	EndGlobalSection
+EndGlobal
